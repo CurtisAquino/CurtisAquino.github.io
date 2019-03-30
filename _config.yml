@@ -9,7 +9,7 @@ name: Curtis Aquino
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/dms/image/C4D03AQGvQQ8JDIKjgA/profile-displayphoto-shrink_200_200/0?e=1559174400&v=beta&t=DKiRqI8FAokh5OeW6mAnjTUO5Y88N8SlFpYqTTVrvZs
+avatar: 
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: curtisaquino
   instagram:
   linkedin:
   pinterest:
